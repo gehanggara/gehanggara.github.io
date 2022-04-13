@@ -1,4 +1,12 @@
 .jumbotron {
+  background-image: url(../portofolio-bootstrap5/img/bg.png);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
+  color: #eaeaea;
+}
+
+.jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
 }
